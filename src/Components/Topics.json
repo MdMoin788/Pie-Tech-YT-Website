@@ -1,0 +1,63 @@
+[
+    {
+        "topic": [
+            "react",
+            "what is react ?",
+            "introduction",
+            "react introduction",
+            "day-01",
+            "day-1",
+            "day1",
+            "day 1"
+        ],
+        "title": [
+            "React is a front-end and open-source JavaScript library which is useful in developing user interfaces specifically for applications with a single page.",
+            "React Allows us to make reusable components",
+            "it follows the component-based approach"
+        ],
+        "heading": "Day - 01 What is React ? `Introduction `",
+        "github": "https://github.com/MdMoin788/Pie-Tech-YT-YouTube-Channel/tree/main/Day-01"
+
+    },
+    {
+        "topic": [
+            "requirements",
+            "tools",
+            "Tools",
+            "day-02",
+            "day-2",
+            "day2",
+            "day 2"
+        ],
+        "title": [
+            "1. node.js => Download from : ` https://nodejs.org/en/ ` ",
+            "2. vs code => Download From :  https://code.visualstudio.com/"
+        ],
+        "heading": "Day - 02 ` Requirements/Tools For Setup`",
+        "github": "https://github.com/MdMoin788/Pie-Tech-YT-YouTube-Channel/tree/main/Day-02"
+
+    },
+    {
+        "topic": [
+            "file structure",
+            "File Structure",
+            "File",
+            "file",
+            "structure",
+            "day-03",
+            "day-3",
+            "day3",
+            "day 3"
+        ],
+        "title": [
+            "1. node modules ",
+            "2. public folder ",
+            "3. src folder ",
+            "4. app.js ",
+            "5. index.js ",
+            "6. package.json "
+        ],
+        "heading": "Day - 03 ` File Structure in React app`",
+        "github": "https://github.com/MdMoin788/Pie-Tech-YT-YouTube-Channel/tree/main/Day-03"
+    }
+]
